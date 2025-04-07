@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"bounce_cleaning",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"bounce_cleaning",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

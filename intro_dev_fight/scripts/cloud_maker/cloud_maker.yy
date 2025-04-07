@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"cloud_maker",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cloud_maker",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

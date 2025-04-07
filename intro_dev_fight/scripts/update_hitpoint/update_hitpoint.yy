@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"update_hitpoint",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"update_hitpoint",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
